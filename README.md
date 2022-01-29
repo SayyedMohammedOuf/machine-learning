@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/SayyedMohammedOuf/machine-learning/tree/master.svg?style=svg)](https://circleci.com/gh/SayyedMohammedOuf/machine-learning/tree/master)
 
 ## Project Overview
 
@@ -33,3 +33,9 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+---
+
+### More Links:
+* **Circleci:** https://app.circleci.com/pipelines/github/SayyedMohammedOuf/machine-learning
+* **Github Repo:** https://github.com/SayyedMohammedOuf/machine-learning
